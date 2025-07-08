@@ -1,6 +1,6 @@
 # SCT_DS_1
 This project depicts global population information categorized by gender on Microsoft Excel.
-It includes:
+It includes,
 Cleaned dataset of population by gender
 Pivot table to categorize male and female population
 Interactive bar chart displaying male vs female population
